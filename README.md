@@ -13,7 +13,7 @@
 ## Github Stats
 
 <a href="https://github.com/sahibul-n-f/sahibul-n-f">
-  <img align="center" height="220" src="https://github-readme-stats.vercel.app/api?username=sahibul-nf&count_private=true&show_icons=true&title_color=00add8&bg_color=24292e&text_color=f6f8fa&icon_color=00add8&border_radius=16" />
+  <img align="center" height="220" src="https://github-readme-stats.vercel.app/api?username=sahibul-n-f&count_private=true&show_icons=true&title_color=00add8&bg_color=24292e&text_color=f6f8fa&icon_color=00add8&border_radius=16" />
 </a>
 <a href="https://github.com/sahibul-n-f/sahibul-n-f">
   <img align="center" height="220" font-size"12" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahibul-n-f&langs_count=4&border_radius=16&border_color=d1d5da" />
