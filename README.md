@@ -9,7 +9,7 @@
 <samp>My name is **Sahibul Nuzul Firdaus** and I'm a **Information Technology** Student. I'm from Indonesia, living in Aceh and currently studying at UIN Ar-Raniry. I am passionate about software development.
 <br/>
 <br/>
-Also check out my other public repo at the following link https://github.com/sahibul-n-f</samp>
+Also check out my other public repo at the following link https://github.com/sahibul-nf</samp>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
